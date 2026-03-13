@@ -4,6 +4,7 @@ Code and data for reproducing the dilogarithm simplification results from:
 
 **"Learning to Unscramble: Simplifying Symbolic Expressions via Self-Supervised Oracle Trajectories"**
 David Shih
+[arXiv:2603.11164](https://arxiv.org/abs/2603.11164)
 
 ## Overview
 
@@ -122,9 +123,11 @@ models/
 ## Citation
 
 ```bibtex
-@article{Shih:2025xxx,
+@article{Shih:2025unscramble,
     author = "Shih, David",
     title = "{Learning to Unscramble: Simplifying Symbolic Expressions via Self-Supervised Oracle Trajectories}",
+    eprint = "2603.11164",
+    archivePrefix = "arXiv",
     year = "2025"
 }
 ```
