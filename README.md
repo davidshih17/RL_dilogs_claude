@@ -133,7 +133,3 @@ models/
     year = "2026"
 }
 ```
-
-## License
-
-MIT License
