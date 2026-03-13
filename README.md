@@ -123,12 +123,14 @@ models/
 ## Citation
 
 ```bibtex
-@article{Shih:2025unscramble,
+@article{Shih:2026lmy,
     author = "Shih, David",
     title = "{Learning to Unscramble: Simplifying Symbolic Expressions via Self-Supervised Oracle Trajectories}",
     eprint = "2603.11164",
     archivePrefix = "arXiv",
-    year = "2025"
+    primaryClass = "hep-th",
+    month = "3",
+    year = "2026"
 }
 ```
 
